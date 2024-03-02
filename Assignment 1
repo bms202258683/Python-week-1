@@ -1,0 +1,4 @@
+name=input("Type in your name.")
+age=input("Input your current age please.")
+location=input("Where do you currently leave at?")
+print(f"Hello {name}, you are {age} years old and live in {location}.")
